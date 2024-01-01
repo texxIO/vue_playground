@@ -10,7 +10,7 @@
   "dependencies": {
     "@vue/cli": "^4.2.2",
     "animate.css": "^3.7.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "postcss-loader": "^3.0.0",
     "tailwindcss": "^1.2.0",
